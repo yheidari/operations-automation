@@ -1,4 +1,4 @@
-# Yashar Heidari â€” Operations & Automation Specialist Portfolio
+# Yashar Heidari — Operations & Automation Specialist Portfolio
 
 Workflow automation, BPMN process design, and reliability.
 
@@ -13,7 +13,7 @@ Operations & Automation Specialist with 5 years of experience removing manual wo
 
 ## Contact
 
-- Location: Messina, Italy آ· Open to Remote
+- Location: Messina, Italy · Open to Remote
 - Email: yashaarheidari@gmail.com
 - LinkedIn: https://linkedin.com/in/yheidari
 - GitHub: https://github.com/yheidari/operations-automation
