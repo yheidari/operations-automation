@@ -1,4 +1,4 @@
-# Yashar Heidari — Operations & Automation Specialist Portfolio
+# Yashar Heidari - Operations & Automation Specialist Portfolio
 
 Professional landing page and experience summary.
 
@@ -8,7 +8,7 @@ Professional landing page and experience summary.
 
 ## Profile
 
-Operations & Automation Specialist with 5 years of experience removing manual work and scaling process reliability across SaaS and consumer app marketplace environments. Automated 18 workflows at Cafe Bazaar (40M+ users), saving ~7 hours/week, and built a $240K/year efficiency case at Jumbula. Strong in Python/Bash scripting, Zapier/Make, BPMN process design, and SQL-backed reporting.
+Operations and automation professional with experience designing workflows, reducing reporting friction, and connecting analytics with day-to-day execution. Built automation across SaaS marketing operations, event tracking, reporting, and content systems using n8n, Zapier, Cloudflare Workers, Python, and SQL.
 
 ## Contact
 
