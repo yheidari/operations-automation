@@ -1,4 +1,4 @@
-# Yashar Heidari - Operations & Automation Specialist Portfolio
+# Yashar Heidari - Marketing Operations & Analytics Portfolio
 
 Professional landing page and experience summary.
 
@@ -8,10 +8,10 @@ Professional landing page and experience summary.
 
 ## Profile
 
-Operations and automation professional with experience designing workflows, reducing reporting friction, and connecting analytics with day-to-day execution. Built automation across SaaS marketing operations, event tracking, reporting, and content systems using n8n, Zapier, Cloudflare Workers, Python, and SQL.
+Marketing Operations and Analytics specialist focused on measurement, growth systems, and lifecycle automation in B2B SaaS. I bridge marketing, product, and data by designing event tracking, building self-serve dashboards, and turning fragmented multi-channel data into clear decisions on budget, funnel performance, and campaign ROI. Hands-on with GA4, Google Tag Manager, SQL, Looker Studio, and n8n plus Cloudflare Workers for automation.
 
 ## Contact
 
-- Location: Messina, Italy | Open to remote
+- Location: Messina, Italy | EU work-authorized
 - Email: yashaarheidari@gmail.com
 - LinkedIn: https://linkedin.com/in/yheidari
