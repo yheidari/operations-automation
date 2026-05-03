@@ -12,6 +12,7 @@ Marketing Operations and Analytics specialist focused on measurement, growth sys
 
 ## Contact
 
-- Location: Messina, Italy | EU work-authorized
+- Location: Messina, Italy | Italian residence permit holder | EU work-authorized
+- Phone: +39 351 492 0315
 - Email: yashaarheidari@gmail.com
 - LinkedIn: https://linkedin.com/in/yheidari
